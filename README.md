@@ -13,8 +13,7 @@ You can find a PDF version of the book <a href="http://www.pythonlearn.com/book_
 To access the workshop lessons, open the Jupyter notebook files (e.g., Session2.ipynb) within this repository. I will upload the notebooks after the end of each session. 
 
 If you cannot open the Jupyter notebook files within this repository, you can view them here:</br>
-
-<a href="https://nbviewer.jupyter.org/github/FernandoUCI/Python-for-Data-Science-Workshop/blob/master/Session2.ipynb" target="_blank">Session 2</a>.
+<a href="https://nbviewer.jupyter.org/github/FernandoUCI/Python-for-Data-Science-Workshop/blob/master/Session2.ipynb" target="_blank">Session 2</a>
 
 
 Here is the workshop schedule.
