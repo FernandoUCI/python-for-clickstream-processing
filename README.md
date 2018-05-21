@@ -15,6 +15,7 @@ To access the workshop lessons, open the Jupyter notebook files (e.g., Session2.
 If you cannot open the Jupyter notebook files within this repository, you can view them here:</br>
 <a href="https://nbviewer.jupyter.org/github/FernandoUCI/Python-for-Data-Science-Workshop/blob/master/Session2.ipynb" target="_blank">Session 2</a></br>
 <a href="http://nbviewer.jupyter.org/github/FernandoUCI/Python-for-Data-Science-Workshop/blob/master/Session3.ipynb" target="_blank">Session 3</a>
+<a href="https://nbviewer.jupyter.org/github/FernandoUCI/Python-for-Data-Science-Workshop/blob/master/Session4.ipynb" target="_blank">Session 4</a>
 
 Here is the workshop schedule.
 ![alt text](https://github.com/FernandoUCI/Python-for-Data-Science-Workshop/blob/master/images/schedule.png)
