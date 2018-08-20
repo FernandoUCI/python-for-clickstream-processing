@@ -13,7 +13,7 @@ Prior to getting started, please download and install Python 2.7x.<br>
 <a href="https://www.python.org/downloads/release/python-2715/" target="_blank">Link to Python 2.7x Installation File</a></br>
 
 Once you install Python, I recommend using Jupyter Notebooks as your main graphical user interface (GUI). You can download Jupyter Notebooks through Anaconday Navigator, which contains a larger suite of Python-specific applications.<br> 
-<a href="https://anaconda.org/anaconda/anaconda-navigator">Link to Anaconda Navigator Installation File</a></br><br>
+<a href="https://anaconda.org/anaconda/anaconda-navigator">Link to Anaconda Navigator Installation File</a><br>
 
 ### Workshop Lessons and Videos
 To access the workshop lessons, open the Jupyter notebook files (e.g., Session2.ipynb) within this repository. Please refer to the workshop videos, as they contain commentary and explanations that are not found in the Jupyter notebook files. <a href="https://drive.google.com/open?id=1edZyHQdBu-kJ_6xhVFZiOYCNuVuHdxXk" target="_blank">Link to Workshop Videos</a></br>
