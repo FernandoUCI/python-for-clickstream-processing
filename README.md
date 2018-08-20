@@ -5,7 +5,7 @@ Instructor: Fernando Rodriguez
 ### About This Workshop
 This workshop will teach you all of the essential Python programming concepts you need in order work with data. We will specifically learn how to work with student clickstream data, which are timestamped events of students' mouse clicks within a Learning Management System (LMS).
 
-This workshop contains several examples from this book, Python for Informatics, by Charles Severance. I highly recommend this book as a supplment for the workshop. You can find a PDF version of the book <a href="http://www.pythonlearn.com/book_270.pdf" target="_blank">here</a>. You can also purchase a paperback version of the book <a href="https://www.amazon.com/Python-Informatics-Dr-Charles-Severance/dp/1492339245/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1534778376&sr=8-1" target="_blank">through amazon</a>.
+This workshop contains several examples from the book, <i>Python for Informatics</i>, by Charles Severance. I highly recommend this book as a supplment for the workshop. You can find a PDF version of the book <a href="http://www.pythonlearn.com/book_270.pdf" target="_blank">here</a>. You can also purchase a paperback version of the book <a href="https://www.amazon.com/Python-Informatics-Dr-Charles-Severance/dp/1492339245/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1534778376&sr=8-1" target="_blank">through amazon</a>.
 
 ### Getting Started
 #### Installing Python and Jupyter Notebooks (via Anaconda Navigator)
