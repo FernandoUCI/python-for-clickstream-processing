@@ -1,5 +1,5 @@
 
-# Intro to Python for Data Science Workshop - Spring 2018
+# Intro to Python for Data Science Workshop
 Instructor: Fernando Rodriguez
 
 ### About This Workshop
