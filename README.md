@@ -12,7 +12,7 @@ This workshop contains several examples from the book, <i>Python for Informatics
 Prior to getting started, please download and install Python 2.7x.<br>
 <a href="https://www.python.org/downloads/release/python-2715/" target="_blank">Link to Python 2.7x Installation File</a></br>
 
-Once you install Python, I recommend using Jupyter Notebooks as your main graphical user interface (GUI). You can download Jupyter Notebooks through Anaconday Navigator, which contains a larger suite of Python-specific applications.<br> 
+Once you install Python, I recommend using Jupyter Notebooks as your main graphical user interface (GUI). You can download Jupyter Notebooks through Anaconda Navigator, which contains a larger suite of Python-specific applications.<br> 
 <a href="https://anaconda.org/anaconda/anaconda-navigator">Link to Anaconda Navigator Installation File</a><br>
 
 ### Workshop Lessons and Videos
