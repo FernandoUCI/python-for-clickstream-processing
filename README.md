@@ -1,5 +1,5 @@
 
-# Intro to Python for Data Science Workshop
+# Intro to Python for Clickstream Data Cleaning
 Instructor: Fernando Rodriguez
 
 ### About This Workshop
